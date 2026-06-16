@@ -1,0 +1,4 @@
+name = "GCF"
+grammar = "gcf"
+path_suffixes = ["gcf"]
+line_comments = ["# "]
