@@ -3,9 +3,9 @@ name = "GCF"
 description = "Syntax highlighting for GCF (Graph Compact Format) files."
 version = "0.1.0"
 schema_version = 1
-authors = ["Dayna Blackwell <daynajblackwell@gmail.com>"]
+authors = ["Dayna Blackwell <dayna@blackwell-systems.com>"]
 repository = "https://github.com/blackwell-systems/gcf-zed"
 
 [grammars.gcf]
 repository = "https://github.com/blackwell-systems/tree-sitter-gcf"
-commit = "7de8d48308ba9ebf547acc4f3d64c46a29c9e57b"
+commit = "cfc28ac7f5355beea643257855e3d0c3a7b3dc84"
